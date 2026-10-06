@@ -1,1 +1,1 @@
-# Mini Projek - Lithalia Geminifer Addawiyah - Manajemen Karya Desain
+# Mini Projek 2 - Lithalia Geminifer Addawiyah - Manajemen Karya Desain
