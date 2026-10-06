@@ -13,6 +13,8 @@ daftar_proyek = {
     2: {"klien": "Lida", "jenis": "Logo", "deadline": "09 Mei"}
 }
 
+nomor_baru = 3
+
 def bersih():
     os.system("cls" if os.name == "nt" else "clear")
 
